@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blogcv.local/</loc>
+    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/categories/</loc>
+    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/categories/one/</loc>
+    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/posts/</loc>
+    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/categories/two/</loc>
+    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/posts/welcome-to-hugo/</loc>
+    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/posts/usage/</loc>
+    <lastmod>2016-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/posts/no-image/</loc>
+    <lastmod>2016-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/posts/installation/</loc>
+    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/tags/tag_c/</loc>
+    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/tags/</loc>
+    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/posts/elements/</loc>
+    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/tags/tag_a/</loc>
+    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/posts/documentation/</loc>
+    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/tags/tag_b/</loc>
+    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/pages/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/pages/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blogcv.local/pages/</loc>
+  </url>
+  
+</urlset>
