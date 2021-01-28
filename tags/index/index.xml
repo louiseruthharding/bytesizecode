@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Clarity</title>
-    <link>https://www.bytesizecode.com/tags/index/</link>
+    <link>https://bytesizecode.com/tags/index/</link>
     <description>Recent content in index on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.bytesizecode.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://bytesizecode.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://www.bytesizecode.com/post/</link>
+      <link>https://bytesizecode.com/post/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bytesizecode.com/post/</guid>
+      <guid>https://bytesizecode.com/post/</guid>
       <description>
         
           
