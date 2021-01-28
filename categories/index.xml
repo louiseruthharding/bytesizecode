@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Clarity</title>
-    <link>http://www.bytesizecode.com/categories/</link>
+    <link>https://www.bytesizecode.com/categories/</link>
     <description>Recent content in Categories on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.bytesizecode.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bytesizecode.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

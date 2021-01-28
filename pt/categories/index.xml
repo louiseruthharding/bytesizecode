@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Claridade</title>
-    <link>http://www.bytesizecode.com/pt/categories/</link>
+    <link>https://www.bytesizecode.com/pt/categories/</link>
     <description>Recent content in Categories on Claridade</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://www.bytesizecode.com/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.bytesizecode.com/pt/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
