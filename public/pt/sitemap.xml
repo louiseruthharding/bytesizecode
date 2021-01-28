@@ -4,7 +4,6 @@
   
   <url>
     <loc>http://www.bytesizecode.com/pt/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +18,6 @@
   
   <url>
     <loc>http://www.bytesizecode.com/pt/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,93 +31,7 @@
   </url>
   
   <url>
-    <loc>http://www.bytesizecode.com/pt/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.bytesizecode.com/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.bytesizecode.com/pt/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/tags/destacado/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.bytesizecode.com/post/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.bytesizecode.com/pt/post/markdown-syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.bytesizecode.com/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.bytesizecode.com/pt/tags/html/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.bytesizecode.com/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.bytesizecode.com/pt/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.bytesizecode.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.bytesizecode.com/pt/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/categories/sintaxe/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.bytesizecode.com/pt/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,31 +41,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://www.bytesizecode.com/pt/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/tags/temas/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/categories/temas/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.bytesizecode.com/pt/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.bytesizecode.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.bytesizecode.com/pt/about/"
                 />
   </url>
   
